@@ -43,12 +43,28 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shloook&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloook&layout=compact&theme=tokyonight" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shloook&theme=tokyonight" height="165" />
+<!-- GitHub Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shloook&show_icons=true&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shloook&show_icons=true&theme=default" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shloook&show_icons=true&theme=default" height="165" />
+</picture>
+
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shloook&layout=compact&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shloook&layout=compact&theme=default" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloook&layout=compact&theme=default" height="165" />
+</picture>
+
+<!-- GitHub Streak -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shloook&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shloook&theme=default&hide_border=true" />
+  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=shloook&theme=default&hide_border=true" height="165" />
+</picture>
+
 </p>
 
 ---
@@ -56,13 +72,13 @@
 ### 📈 Activity & Contributions
 
 #### 🗓️ GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shloook&theme=tokyo-night" />
-</p>
 
-#### 🔥 Contribution Heatmap (3D Style)
 <p align="center">
-  <img src="https://github.com/shloook/shloook/blob/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shloook&bg_color=0d1117&color=79c0ff&line=00C2FF&point=ffffff&area=true&hide_border=true&radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shloook&bg_color=fefefe&color=0366d6&line=00C2FF&point=000000&area=true&hide_border=true&radius=10" />
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shloook&bg_color=fefefe&color=0366d6&line=00C2FF&point=000000&area=true&hide_border=true&radius=10" />
+</picture>
 </p>
 
 ---
