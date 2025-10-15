@@ -1,97 +1,105 @@
-<h1 align="center">👋 Hey there, I'm Nayan (aka <a href="https://github.com/shloook">shloook</a>)</h1>
+<h1 align="center">
+  🌌 Welcome to the Multiverse of <a href="https://github.com/shloook">shloook</a> 👾  
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=440&lines=Developer+%7C+Learner+%7C+Creator;I+Love+Building+Cool+Projects!;Open+Source+%26+Automation+Fan!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=800&color=00E6FF&center=true&vCenter=true&width=600&lines=👨‍💻+Developer+by+day+%7C+Dreamer+by+night;⚡+Building+automated+chaos;🌍+Coding+from+India;🧠+Learning+AI,+ML,+and+the+art+of+creation" alt="Typing Animation">
+</p>
+
+<p align="center">
+  <img src="https://github.com/shloook/shloook/assets/0000000/galactic-divider.gif" width="100%">
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🚀 **Who am I?**
+> _“Half caffeine, half curiosity — fully unstoppable.”_ ☕⚡  
 
-🌍 I'm from India  
-💻 Passionate about **Python**, **JavaScript**, and **automation tools**  
-🧠 Currently learning **AI**, **Machine Learning**, and **Web Dev**  
-🚀 Exploring open-source and creative coding  
-💬 Always open to collaboration and new ideas  
+- 🧩 **Python, JavaScript, and Automation** enthusiast  
+- 🤖 **AI & Machine Learning** explorer  
+- 💡 Obsessed with **creative coding** and **open source**  
+- 🔥 Always building, breaking, and rebuilding cooler stuff  
+- 🎯 Motto: _“Ship > Perfect”_
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ **Galactic Tech Stack**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,flask,git,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/shloook/shloook/assets/0000000/techwave.gif" width="80%">
 </p>
 
 ---
 
-### 📂 Featured Projects
+### 🌈 **Featured Creations**
 
-🔤 [**Spelling & Grammar Tool**](https://github.com/shloook/scaling-octo-winner)  
-🧠 AI-powered spell checker and sentence improver for websites.  
+#### 🔤 [🧠 Spelling & Grammar Tool](https://github.com/shloook/scaling-octo-winner)
+> AI-powered spell-checker and language enhancer with a flair for perfection.
 
-🌌 [**Imaginary Legend**](https://github.com/shloook/imaginary-legend)  
-💡 A creative coding experiment exploring logic, automation, and design.
+#### 🌌 [💡 Imaginary Legend](https://github.com/shloook/imaginary-legend)
+> A creative coding odyssey through logic, design, and automation.
+
+#### 🛸 [🚀 Workflow Automator (coming soon)]()
+> The open-source command center for lazy geniuses.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 **Stats from the Code Galaxy**
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shloook&show_icons=true&hide_border=true&border_radius=12&count_private=true&theme=transparent" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloook&layout=compact&hide_border=true&border_radius=12&theme=transparent" height="170">
+</p>
 
-<!-- GitHub Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shloook&show_icons=true&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shloook&show_icons=true&theme=default" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shloook&show_icons=true&theme=default" height="165" />
-</picture>
-
-<!-- Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shloook&layout=compact&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shloook&layout=compact&theme=default" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloook&layout=compact&theme=default" height="165" />
-</picture>
-
-<!-- GitHub Streak -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shloook&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shloook&theme=default&hide_border=true" />
-  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=shloook&theme=default&hide_border=true" height="165" />
-</picture>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shloook&theme=transparent&hide_border=true&border_radius=12" height="165">
 </p>
 
 ---
 
-### 📈 Activity & Contributions
-
-#### 🗓️ GitHub Contribution Graph
+### 📈 **Contribution Nebula**
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shloook&bg_color=0d1117&color=79c0ff&line=00C2FF&point=ffffff&area=true&hide_border=true&radius=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shloook&bg_color=fefefe&color=0366d6&line=00C2FF&point=000000&area=true&hide_border=true&radius=10" />
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shloook&bg_color=fefefe&color=0366d6&line=00C2FF&point=000000&area=true&hide_border=true&radius=10" />
-</picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shloook&theme=github-compact&hide_border=true&radius=12" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
-
+### 🌐 **Connect with Me**
 <p align="center">
   <a href="mailto:shloook@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shloook"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/shloook"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐ **If you like my projects, don’t forget to star them!**  
-💬 _Thanks for visiting — have a great day!_
+### 💥 Fun Mode Activated
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60"> 
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="60">
+</p>
+
+<p align="center">
+  <img src="https://github.com/shloook/shloook/assets/0000000/hyperwave-divider.gif" width="100%">
+</p>
+
+<h3 align="center">⭐ If you vibed with my code energy — star my projects & fuel the madness! ⭐</h3>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=transparent" alt="Jokes Card" />
+</p>
+
+---
+
+<h4 align="center">
+  🪐 “Coding isn’t just logic — it’s digital art.” 🌠  
+  <br>— <i>shloook</i>
+</h4>
