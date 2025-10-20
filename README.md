@@ -11,10 +11,6 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://github.com/shloook/shloook/assets/your-asset-id/galactic-divider.gif" width="100%" alt="Galactic divider animation" />
-</p>
-
 ---
 
 ### 🚀 **𝕎𝕙𝕠 𝕒𝕞 𝕀?**
@@ -34,9 +30,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,flask,git,vscode" alt="Tech stack: Python, JS, React, NodeJS, HTML, CSS, Flask, Git, VSCode" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/shloook/shloook/assets/your-asset-id/techwave.gif" width="80%" alt="Techwave divider animation" />
-</p>
+
 
 ---
 
@@ -93,9 +87,7 @@
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="60" alt="Terminal animation" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/shloook/shloook/assets/your-asset-id/hyperwave-divider.gif" width="100%" alt="Hyperwave divider animation" />
-</p>
+
 
 <h3 align="center">
   ⭐ 𝕀𝕗 𝕪𝕠𝕦 𝕧𝕚𝕓𝕖𝕕 𝕨𝕚𝕥𝕙 𝕞𝕪 𝕔𝕠𝕕𝕖 𝕖𝕟𝕖𝕣𝕘𝕪 — 𝕤𝕥𝕒𝕣 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤 & 𝕗𝕦𝕖𝕝 𝕥𝕙𝕖 𝕞𝕒𝕕𝕟𝕖𝕤𝕤! ⭐
