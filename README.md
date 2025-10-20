@@ -1,10 +1,11 @@
 <h1 align="center">
-  🌌 Welcome to the Multiverse of <a href="https://github.com/shloook">shloook</a> 👾  
+  🌌 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕥𝕙𝕖 𝕄𝕦𝕝𝕥𝕚𝕧𝕖𝕣𝕤𝕖 𝕠𝕗<a href="https://github.com/shloook"> ℕ𝕒𝕪𝕒𝕟</a> 👾  
 </h1>
 
+<!-- Animated Typing Text -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=800&color=06D6A0&center=true&vCenter=true&width=650&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Developer+by+Day+%7C+Dreamer+by+Night;%E2%9A%A1+Building+Automated+Chaos;%F0%9F%A7%A0+Exploring+AI%2C+ML+%26+Imagination;%F0%9F%8C%8D+Coding+from+India+%F0%9F%8C%8F" 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Developer+by+Day+%7C+Dreamer+by+Night;Building+Automated+Chaos;Exploring+AI%2C+ML+%26+Imagination;Coding+from+India"
     alt="Animated intro text"
   />
 </p>
@@ -15,7 +16,7 @@
 
 ---
 
-### 🚀 **Who am I?**
+### 🚀 **𝕎𝕙𝕠 𝕒𝕞 𝕀?**
 > _“Half caffeine, half curiosity — fully unstoppable.”_ ☕⚡  
 
 - 🧩 Enthusiast in **Python, JavaScript, and Automation**  
@@ -26,7 +27,7 @@
 
 ---
 
-### ⚙️ **Galactic Tech Stack**
+### ⚙️ **𝔾𝕒𝕝𝕒𝕔𝕥𝕚𝕔 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,flask,git,vscode" alt="Tech stack icons: Python, JS, React, NodeJS, HTML, CSS, Flask, Git, VSCode" />
@@ -38,7 +39,7 @@
 
 ---
 
-### 🌈 **Featured Creations**
+### 🌈 **𝔽𝕖𝕒𝕥𝕦𝕣𝕖𝕕 ℂ𝕣𝕖𝕒𝕥𝕚𝕠𝕟𝕤**
 
 #### 🔤 [🧠 Spelling & Grammar Tool](https://github.com/shloook/scaling-octo-winner)
 > AI-powered spell-checker and language enhancer with a flair for perfection.
@@ -51,7 +52,7 @@
 
 ---
 
-### 📊 **Stats from the Code Galaxy**
+### 📊 **𝕊𝕥𝕒𝕥𝕤 𝕗𝕣𝕠𝕞 𝕥𝕙𝕖 ℂ𝕠𝕕𝕖 𝔾𝕒𝕝𝕒𝕩𝕪**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shloook&show_icons=true&hide_border=true&border_radius=12&count_private=true&theme=transparent" height="170" alt="GitHub stats card" />
@@ -64,7 +65,7 @@
 
 ---
 
-### 📈 **Contribution Nebula**
+### 📈 **ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 ℕ𝕖𝕓𝕦𝕝𝕒**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shloook&theme=github-compact&hide_border=true&radius=12" alt="GitHub activity graph" />
@@ -72,7 +73,7 @@
 
 ---
 
-### 🌐 **Connect with Me**
+### 🌐 **ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕄𝕖**
 
 <p align="center">
   <a href="mailto:shloook@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -83,7 +84,7 @@
 
 ---
 
-### 💥 **Fun Mode Activated**
+### 💥 **𝔽𝕦𝕟 𝕄𝕠𝕕𝕖 𝔸𝕔𝕥𝕚𝕧𝕒𝕥𝕖𝕕**
 
 <p align="center">
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" alt="Coding animation 1" /> 
@@ -96,7 +97,7 @@
 </p>
 
 <h3 align="center">
-  ⭐ If you vibed with my code energy — star my projects & fuel the madness! ⭐
+  ⭐ 𝕀𝕗 𝕪𝕠𝕦 𝕧𝕚𝕓𝕖𝕕 𝕨𝕚𝕥𝕙 𝕞𝕪 𝕔𝕠𝕕𝕖 𝕖𝕟𝕖𝕣𝕘𝕪 — 𝕤𝕥𝕒𝕣 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤 & 𝕗𝕦𝕖𝕝 𝕥𝕙𝕖 𝕞𝕒𝕕𝕟𝕖𝕤𝕤! ⭐
 </h3>
 
 <p align="center">
@@ -106,6 +107,6 @@
 ---
 
 <h4 align="center">
-  🪐 “Coding isn’t just logic — it’s digital art.” 🌠  
-  <br>— <i>shloook</i>
+  🪐 “ℂ𝕠𝕕𝕚𝕟𝕘 𝕚𝕤𝕟’𝕥 𝕛𝕦𝕤𝕥 𝕝𝕠𝕘𝕚𝕔 — 𝕚𝕥’𝕤 𝕕𝕚𝕘𝕚𝕥𝕒𝕝 𝕒𝕣𝕥.” 🌠  
+  <br>— <i>𝒩𝒶𝓎𝒶𝓃</i>
 </h4>
