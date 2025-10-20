@@ -1,11 +1,6 @@
-<!-- 🌌 Animated Star Background -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shloook/shloook/main/assets/starfield.gif" width="100%" alt="Animated star background" />
-</p>
-
 <!-- Main Heading -->
-<h1 align="center" style="font-size: 6.5em; font-weight: 500; color: #00E0FF; text-shadow: 0 0 45px #00E0FF, 0 0 55px #00E0FF;">
-  🌌 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕥𝕙𝕖 𝕄𝕦𝕝𝕥𝕚𝕧𝕖𝕣𝕤𝕖 𝕠𝕗 <a href="https://github.com/shloook" style="color:#00E0FF;text-decoration:none;">ℕ𝕒𝕪𝕒𝕟</a> 👾  
+<h1 align="center" style="font-size: 6.5em; font-weight: 5000; color: #00E0FF; text-shadow: 0 0 45px #00E0FF, 0 0 55px #00E0FF;">
+  🌌 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕥𝕙𝕖 𝕄𝕦𝕝𝕥𝕚𝕧𝕖𝕣𝕤𝕖 𝕠𝕗 <a href="https://github.com/shloook" style="color#00E0FF;text-decoration:none;">ℕ𝕒𝕪𝕒𝕟</a> 👾  
 </h1>
 
 <!-- Animated Typing Text -->
@@ -23,12 +18,12 @@
 ---
 
 ### 🚀 **𝕎𝕙𝕠 𝕒𝕞 𝕀?**
-> _“Half caffeine, half curiosity — fully unstoppable.”_ ☕⚡  
+> “𝑯𝒂𝒍𝒇 𝒄𝒂𝒇𝒇𝒆𝒊𝒏𝒆, 𝒉𝒂𝒍𝒇 𝒄𝒖𝒓𝒊𝒐𝒔𝒊𝒕𝒚 — 𝒇𝒖𝒍𝒍𝒚 𝒖𝒏𝒔𝒕𝒐𝒑𝒑𝒂𝒃𝒍𝒆.” ☕⚡  
 
-- 🧩 Enthusiast in **Python, JavaScript, and Automation**  
-- 🤖 Explorer of **AI & Machine Learning**  
-- 💡 Obsessed with **creative coding** and **open source**  
-- 🔥 Always building, breaking, and rebuilding cooler stuff  
+- 🧩 Enthusiast in **ℙ𝕪𝕥𝕙𝕠𝕟, 𝕁𝕒𝕧𝕒𝕊𝕔𝕣𝕚𝕡𝕥, 𝕒𝕟𝕕 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟**  
+- 🤖 Explorer of **𝔸𝕀 & 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘**  
+- 💡 Obsessed with **𝕔𝕣𝕖𝕒𝕥𝕚𝕧𝕖 𝕔𝕠𝕕𝕚𝕟𝕘** ⓐⓝⓓ **𝕠𝕡𝕖𝕟 𝕤𝕠𝕦𝕣𝕔𝕖**  
+- 🔥 𝓐𝓵𝔀𝓪𝔂𝓼 🅱🆄🅸🅻🅳🅸🅽🅶, ฿ⱤɆ₳₭ł₦₲, 𝐚𝐧𝐝 🇷​🇪​🇧​🇺​🇮​🇱​🇩​🇮​🇳​🇬​ ᶜⓞ๏ĻⒺ𝓡 ඏ🎈 𝓼𝓽𝓾𝓯𝓯
 - 🎯 Motto: _“Ship > Perfect”_
 
 ---
@@ -58,7 +53,7 @@
 
 ---
 
-### 📊 **𝕊𝕥𝕒𝕥𝕤 𝕗𝕣𝕠𝕞 𝕥𝕙𝕖 ℂ𝕠𝕕𝕖 𝔾𝕒𝕝𝕒𝕩𝕪**
+### 📊 **𝕊𝕥𝕒𝕥𝕤 𝕗𝕣𝕠𝕞 𝕥𝕙𝕖 ℂ𝕠𝕕𝕖 ☆.｡.:* Galaxy *:.｡.☆**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shloook&show_icons=true&hide_border=true&border_radius=12&count_private=true&theme=transparent" height="170" alt="GitHub stats card" />
