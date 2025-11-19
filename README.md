@@ -1,6 +1,6 @@
 <!-- Main Heading -->
 <h1 align="center" style="font-size: 6.5em; font-weight: 5000; color: #00E0FF; text-shadow: 0 0 45px #00E0FF, 0 0 55px #00E0FF;">
-  🌌 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕥𝕙𝕖 𝕄𝕦𝕝𝕥𝕚𝕧𝕖𝕣𝕤𝕖 𝕠𝕗 <a href="https://github.com/shloook" style="color#00E0FF;text-decoration:none;">ℕ𝕒𝕪𝕒𝕟</a> 👾  
+  𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕥𝕙𝕖 Account: <a href="https://github.com/shloook" style="color#00E0FF;text-decoration:none;">ℕ𝕒𝕪𝕒𝕟</a>   
 </h1>
 
 <!-- Animated Typing Text -->
