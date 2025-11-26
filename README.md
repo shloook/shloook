@@ -1,7 +1,6 @@
-<h1 align="center">
-  Welcome to the Multiverse of <a href="https://github.com/shloook" style="text-decoration:none;">shloook</a>
-</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Nayan%20|%20shloook&fontAlign=50&fontAlignY=40&color=0:00E0FF,100:7A00FF&textBg=false&fontColor=ffffff&fontSize=60&animation=fadeIn" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00E6FF&center=true&vCenter=true&width=650&lines=Developer+by+day+%7C+Dreamer+by+night;Building+automated+systems;Coding+from+India;Learning+AI%2C+ML%2C+and+creative+engineering" alt="Typing Animation">
 </p>
