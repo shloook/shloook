@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
----
+
 
 ### Who am I?
 
@@ -22,7 +22,7 @@
 - Always building, iterating, and improving  
 - Motto: _“Ship > Perfect”_
 
----
+
 
 ### Tech Stack
 
@@ -30,20 +30,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,flask,git,vscode" />
 </p>
 
----
 
-### Featured Projects
-
-#### [Habit Tracker App (JavaFX)](https://github.com/shloook/HabitTracker)
-A desktop habit tracking application with a clean Java UI.
-
-#### [WallsF1](https://github.com/shloook/WallsF1)
-Automated Formula 1 themed wallpaper generator.
-
-#### [Spelling & Grammar Tool](https://github.com/shloook/scaling-octo-winner)
-AI-powered writing enhancement assistant.
-
----
 
 ### Stats
 
@@ -56,7 +43,7 @@ AI-powered writing enhancement assistant.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shloook&theme=transparent" height="150"/>
 </p>
 
----
+
 
 ### Connect
 
@@ -67,7 +54,7 @@ AI-powered writing enhancement assistant.
   <a href="https://x.com/truetech00?s=21"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -79,7 +66,7 @@ AI-powered writing enhancement assistant.
   <img src="https://readme-jokes.vercel.app/api?theme=transparent" alt="Jokes Card" />
 </p>
 
----
+
 
 <h4 align="center">
   “Coding isn’t just logic — it’s digital craftsmanship.”  
