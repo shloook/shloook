@@ -65,9 +65,11 @@
   <img src="https://readme-jokes.vercel.app/api?theme=transparent" alt="Jokes Card" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=0:00E0FF,100:7A00FF" />
+</p>
 
 
 <h4 align="center">
-  “Coding isn’t just logic — it’s digital craftsmanship.”  
-  <br>— <i>shloook</i>
+ “Code is not just logic — it's engineered imagination.”
 </h4>
